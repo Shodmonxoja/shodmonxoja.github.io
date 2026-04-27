@@ -1,18 +1,23 @@
 /*
 Colors:
-    Dominant : #98A869
+    Dominant : #008264
     Secondary : #FFCE1B
     Accent : #E35336
 */
 body {
     background-color: #008264;
+    padding-top: 40px;
 }
 
 .navigation-bar{
+    position: fixed;
     background-color: #FFCE1B;
-    width: fit-content;
+    width: 100%;
     height: fit-content;
     display: flex;
+    overflow: hidden;
+    top: 0;
+    left: 0;
 }
 
 .navigation-bar a{
@@ -20,9 +25,14 @@ body {
     color: #fff;
     text-decoration: none;
     padding: 10px;
+    float: left;
 }
 
 .navigation-bar a:hover{
     color: #FFCE1B;
     background-color: #fff;
+}
+
+.page-content{
+    color: white;
 }
