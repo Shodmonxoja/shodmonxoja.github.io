@@ -1,17 +1,18 @@
 /*
 Colors:
     Dominant : #008264
-    Secondary : #FFCE1B
+    Secondary : #ffb71b
     Accent : #E35336
 */
 body {
     background-color: #008264;
     padding-top: 40px;
+    color: white;
 }
 
 .navigation-bar{
     position: fixed;
-    background-color: #FFCE1B;
+    background-color: #ffb71b;
     width: 100%;
     height: fit-content;
     display: flex;
@@ -21,7 +22,7 @@ body {
 }
 
 .navigation-bar a{
-    background-color: #FFCE1B;
+    background-color: #ffb71b;
     color: #fff;
     text-decoration: none;
     padding: 10px;
@@ -29,10 +30,30 @@ body {
 }
 
 .navigation-bar a:hover{
-    color: #FFCE1B;
+    color: #ffb71b;
     background-color: #fff;
 }
 
 .page-content{
     color: white;
+}
+
+.ppbutton{
+    background-color: #ffb71b;
+}
+
+.ppbutton a{
+    text-decoration: none;
+    color: white;
+    font-size: large;
+    display: block;
+    padding: 10px;
+}
+
+.ppbutton:hover{
+    background-color: white;
+}
+
+.ppbutton:hover a{
+    color: #ffb71b;
 }

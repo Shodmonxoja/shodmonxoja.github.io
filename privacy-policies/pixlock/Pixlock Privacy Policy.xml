@@ -1,0 +1,205 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.1 plus MathML 2.0//EN" "http://www.w3.org/Math/DTD/mathml2/xhtml-math11-f.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" lang="en-US">
+<!--This file was converted to xhtml by LibreOffice - see https://cgit.freedesktop.org/libreoffice/core/tree/filter/source/xslt for the code.-->
+
+<head profile="http://dublincore.org/documents/dcmi-terms/">
+<meta http-equiv="Content-Type" content="application/xhtml+xml; charset=utf-8"/>
+<title xml:lang="en-US">Pixlock Privacy Policy</title>
+<meta name="DCTERMS.title" content="" xml:lang="en-US"/>
+
+<meta name="DCTERMS.language" content="en-US" scheme="DCTERMS.RFC4646"/>
+<meta name="DCTERMS.source" content="http://xml.openoffice.org/odf2xhtml"/>
+
+<meta name="DCTERMS.issued" content="2026-04-24T21:26:57.533058497" scheme="DCTERMS.W3CDTF"/>
+
+<meta name="DCTERMS.modified" content="2026-04-26T17:40:49.536173904" scheme="DCTERMS.W3CDTF"/>
+<meta name="DCTERMS.provenance" content="Printed by &quot;PDF files&quot;[dc:publisher] on &quot;2026-04-26T17:39:15.026549059&quot;[dc:date] in &quot;en-US&quot;[dc:language]" xml:lang="en-US"/>
+
+<meta name="xsl:vendor" content="libxslt"/>
+<link rel="schema.DC" href="http://purl.org/dc/elements/1.1/" hreflang="en"/>
+<link rel="schema.DCTERMS" href="http://purl.org/dc/terms/" hreflang="en"/>
+<link rel="schema.DCTYPE" href="http://purl.org/dc/dcmitype/" hreflang="en"/>
+<link rel="schema.DCAM" href="http://purl.org/dc/dcam/" hreflang="en"/>
+
+<style>
+    table { border-collapse:collapse; border-spacing:0; empty-cells:show }
+    td, th { vertical-align:top; font-size:12pt;}
+    h1, h2, h3, h4, h5, h6 { clear:both;}
+    ol, ul { margin:0; padding:0;}
+    li { list-style: none; margin:0; padding:0;}
+    span.footnodeNumber { padding-right:1em; }
+    span.annotation_style_by_filter { font-size:95%; font-family:Arial; background-color:#fff000;  margin:0; border:0; padding:0;  }
+    span.heading_numbering { margin-right: 0.8rem; }* { margin:0;}
+    .paragraph-P1{ font-size:18pt; font-weight:bold; margin-bottom:0.1665in; margin-top:0.3335in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; color:#000000; letter-spacing:normal; font-style:normal; }
+    .paragraph-P10{ font-size:12pt; line-height:115%; margin-bottom:0in; margin-top:0in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;border-top-style:none; border-left-style:none; border-bottom-style:none; border-right-style:none; margin-left:0in; margin-right:0in; text-indent:0in; padding:0in; color:#000000; letter-spacing:normal; font-style:normal; font-weight:normal; }
+    .paragraph-P11{ font-size:12pt; line-height:115%; margin-bottom:0in; margin-top:0in; font-family:'Liberation Serif'; writing-mode:horizontal-tb; direction:ltr;border-top-style:none; border-left-style:none; border-bottom-style:none; border-right-style:none; margin-left:0in; margin-right:0in; text-indent:0in; padding:0in; }
+    .paragraph-P12{ font-size:12pt; line-height:115%; margin-bottom:0.1665in; margin-top:0.1665in; font-family:'Liberation Serif'; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; }
+    .paragraph-P13{ font-size:12pt; line-height:115%; margin-bottom:0in; margin-top:0in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;border-top-style:none; border-left-style:none; border-bottom-style:none; border-right-style:none; margin-left:0in; margin-right:0in; text-indent:0in; padding:0in; color:#000000; letter-spacing:normal; font-style:normal; font-weight:normal; }
+    .paragraph-P14{ font-size:12pt; line-height:115%; margin-bottom:0.0972in; margin-top:0in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;color:#000000; }
+    .paragraph-P2{ font-size:12pt; line-height:115%; margin-bottom:0.1665in; margin-top:0.1665in; font-family:'Liberation Serif'; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; }
+    .paragraph-P3{ font-size:16.5pt; font-weight:bold; margin-bottom:0.1665in; margin-top:0.3335in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; color:#000000; letter-spacing:normal; font-style:normal; }
+    .paragraph-P4{ font-size:15pt; font-weight:bold; margin-bottom:0.1665in; margin-top:0.3335in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; color:#000000; letter-spacing:normal; font-style:normal; }
+    .paragraph-P5{ font-size:12pt; line-height:115%; margin-bottom:0.1665in; margin-top:0.1665in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; color:#000000; letter-spacing:normal; font-style:normal; font-weight:normal; }
+    .paragraph-P6{ font-size:12pt; font-weight:bold; text-align:left ! important; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; color:#000000; font-style:normal; text-shadow:none; text-decoration:none ! important; }
+    .paragraph-P7{ font-size:12pt; font-family:'Liberation Sans'; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-align:left ! important; text-indent:0in; color:#000000; font-style:normal; text-shadow:none; text-decoration:none ! important; font-weight:normal; }
+    .paragraph-P8{ font-size:12pt; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-align:left ! important; text-indent:0in; color:#000000; font-style:normal; text-shadow:none; text-decoration:none ! important; font-weight:normal; }
+    .paragraph-P9{ font-size:12pt; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;text-align:left ! important; color:#000000; font-style:normal; text-shadow:none; text-decoration:none ! important; font-weight:normal; }
+    .table-Table1{ width:6.2021in; margin-left:0px; margin-right:auto;}
+    .table-Table2{ width:5.5375in; margin-left:0px; margin-right:auto;}
+    .cell-Elegant_1{ border-top-width:0.0709cm; border-top-style:solid; border-top-color:#000000; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#000000; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-weight:bold; font-family:'Liberation Sans'; }
+    .cell-Elegant_10{ background-color:#eeeeee; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#999999; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Elegant_11{ border-top-width:0.0709cm; border-top-style:solid; border-top-color:#000000; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#000000; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-weight:bold; font-family:'Liberation Sans'; }
+    .cell-Elegant_12{ border-top-width:0.0709cm; border-top-style:solid; border-top-color:#000000; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#000000; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-weight:bold; font-family:'Liberation Sans'; }
+    .cell-Elegant_13{ border-top-width:0.0261cm; border-top-style:solid; border-top-color:#999999; border-bottom-width:0.0709cm; border-bottom-style:solid; border-bottom-color:#000000; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Elegant_14{ border-top-width:0.0261cm; border-top-style:solid; border-top-color:#999999; border-bottom-width:0.0709cm; border-bottom-style:solid; border-bottom-color:#000000; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Elegant_15{ border-top-width:0.0709cm; border-top-style:solid; border-top-color:#000000; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#000000; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-weight:bold; font-family:'Liberation Sans'; }
+    .cell-Elegant_16{ border-top-width:0.0261cm; border-top-style:solid; border-top-color:#999999; border-bottom-width:0.0709cm; border-bottom-style:solid; border-bottom-color:#000000; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Elegant_2{ border-top-width:0.0261cm; border-top-style:solid; border-top-color:#999999; border-bottom-width:0.0709cm; border-bottom-style:solid; border-bottom-color:#000000; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Elegant_3{ background-color:#eeeeee; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#999999; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Elegant_4{ background-color:#eeeeee; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#999999; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Elegant_5{ background-color:#eeeeee; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#999999; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Elegant_6{ background-color:#eeeeee; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#999999; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Elegant_7{ background-color:#eeeeee; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#999999; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Elegant_8{ background-color:#eeeeee; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#999999; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Elegant_9{ background-color:#eeeeee; border-bottom-width:0.0261cm; border-bottom-style:solid; border-bottom-color:#999999; padding:0in; padding-left:0in; padding-right:0in; padding-top:0in; padding-bottom:0in; font-family:'Liberation Sans'; }
+    .cell-Table1_A1{ background-color:transparent; vertical-align:middle; padding:0in; border-left-style:none; border-right-style:none; border-top-width:0.0706cm; border-top-style:solid; border-top-color:#000000; border-bottom-width:0.0265cm; border-bottom-style:solid; border-bottom-color:#000000; writing-mode:horizontal-tb; direction:ltr;}
+    .cell-Table1_A2{ background-color:#eeeeee; vertical-align:middle; padding:0in; border-left-style:none; border-right-style:none; border-top-style:none; border-bottom-width:0.0265cm; border-bottom-style:solid; border-bottom-color:#999999; writing-mode:horizontal-tb; direction:ltr;}
+    .cell-Table1_A7{ background-color:transparent; vertical-align:middle; padding:0in; border-left-style:none; border-right-style:none; border-top-width:0.0265cm; border-top-style:solid; border-top-color:#999999; border-bottom-width:0.0706cm; border-bottom-style:solid; border-bottom-color:#000000; writing-mode:horizontal-tb; direction:ltr;}
+    .cell-Table2_A1{ background-color:transparent; vertical-align:middle; padding:0in; border-left-style:none; border-right-style:none; border-top-width:0.0706cm; border-top-style:solid; border-top-color:#000000; border-bottom-width:0.0265cm; border-bottom-style:solid; border-bottom-color:#000000; writing-mode:horizontal-tb; direction:ltr;}
+    .cell-Table2_A2{ background-color:transparent; vertical-align:middle; padding:0in; border-left-style:none; border-right-style:none; border-top-width:0.0265cm; border-top-style:solid; border-top-color:#999999; border-bottom-width:0.0706cm; border-bottom-style:solid; border-bottom-color:#000000; writing-mode:horizontal-tb; direction:ltr;}
+    .col-Table1_A{ width:1.9076in; }
+    .col-Table1_B{ width:4.2944in; }
+    .col-Table2_A{ width:1.2188in; }
+    .col-Table2_B{ width:2.6611in; }
+    .col-Table2_C{ width:1.6576in; }
+    .text-Bullet_20_Symbols{ font-family:OpenSymbol; }
+    .text-Internet_20_link{ color:#000080; text-decoration:underline; }
+    .text-Strong_20_Emphasis{ font-weight:bold; }
+    .text-T1{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:bold; }
+    .text-T10{ color:#1f1f1f; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:bold; }
+    .text-T11{ color:#1f1f1f; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:normal; }
+    .text-T2{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:bold; }
+    .text-T3{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; text-decoration:none ! important; font-weight:bold; }
+    .text-T4{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:normal; }
+    .text-T5{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:bold; }
+    .text-T6{ font-family:Arial; font-size:11.25pt; font-weight:bold; }
+    .text-T7{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; text-decoration:none ! important; font-weight:normal; }
+    .text-T8{ font-family:Arial; font-size:11.25pt; }
+    .text-T9{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:normal; }
+    /* ODF styles with no properties representable as CSS:
+    .dp1 .Table1.1 .Table2.1  { } */
+</style>
+</head>
+
+<body dir="ltr" style="max-width:8.5in;margin-top:0.7874in; margin-bottom:0.7874in; margin-left:0.7874in; margin-right:0.7874in; ">
+<h1 class="paragraph-P1"><a id="a__Privacy_Policy"><span/></a>Privacy Policy</h1>
+
+<p class="paragraph-P2"><span class="text-Strong_20_Emphasis"><span class="text-T1">Last Updated: </span></span><span class="text-Strong_20_Emphasis"><span class="text-T2">26/04/2026</span></span></p>
+
+<p class="paragraph-P2"><span class="text-Strong_20_Emphasis"><span class="text-T3">Pixlock</span></span><span class="text-T4"> (the "Game") is a simple puzzle game developed by </span><span class="text-Strong_20_Emphasis"><span class="text-T5">Xoja Games</span></span><span class="text-T4">. This Privacy Policy explains how we handle your information when you use our Game.</span></p>
+<h2 class="paragraph-P3"><a id="a__1__Information_We_Collect"><span/></a>1. Information We Collect</h2>
+
+<p class="paragraph-P2"><span class="text-Strong_20_Emphasis"><span class="text-T1">We do not directly collect, store, or transmit any personal information from you.</span></span><span class="text-T4"> You do not need to create an account, provide an email address, or submit any personal data to play our Game.</span></p>
+
+<p class="paragraph-P2"><span class="text-T4">However, our Game uses </span><span class="text-Strong_20_Emphasis"><span class="text-T1">Google AdMob</span></span><span class="text-T4"> to display advertisements. AdMob is a third-party service provided by Google LLC that may collect certain data automatically to serve and improve ads.</span></p>
+<h3 class="paragraph-P4"><a id="a__What_AdMob_Collects"><span/></a>What AdMob Collects</h3>
+
+<p class="paragraph-P5">According to Google's documentation, the Google Mobile Ads SDK may collect the following types of information :</p>
+
+
+<table border="0" cellspacing="0" cellpadding="0" class="table-Table1"><colgroup><col width="212"/><col width="477"/></colgroup><tr class="row-Table1_1"><td style="text-align:left;width:1.9076in; " class="cell-Table1_A1">
+<p class="paragraph-P6">Data Type</p>
+</td><td style="text-align:left;width:4.2944in; " class="cell-Table1_A1">
+<p class="paragraph-P6">Examples</p>
+</td></tr><tr class="row-Table1_1"><td style="text-align:left;width:1.9076in; " class="cell-Table1_A2">
+<p class="paragraph-P7"><span class="text-Strong_20_Emphasis"><span class="text-T6">IP Address</span></span></p>
+</td><td style="text-align:left;width:4.2944in; " class="cell-Table1_A2">
+<p class="paragraph-P8">Used to estimate your approximate location</p>
+</td></tr><tr class="row-Table1_1"><td style="text-align:left;width:1.9076in; " class="cell-Table1_A2">
+<p class="paragraph-P7"><span class="text-Strong_20_Emphasis"><span class="text-T6">Device ID</span></span></p>
+</td><td style="text-align:left;width:4.2944in; " class="cell-Table1_A2">
+<p class="paragraph-P8">Advertising identifier (AAID on Android, IDFA on iOS)</p>
+</td></tr><tr class="row-Table1_1"><td style="text-align:left;width:1.9076in; " class="cell-Table1_A2">
+<p class="paragraph-P7"><span class="text-Strong_20_Emphasis"><span class="text-T6">Device Information</span></span></p>
+</td><td style="text-align:left;width:4.2944in; " class="cell-Table1_A2">
+<p class="paragraph-P8">Device model, operating system version, screen size</p>
+</td></tr><tr class="row-Table1_1"><td style="text-align:left;width:1.9076in; " class="cell-Table1_A2">
+<p class="paragraph-P7"><span class="text-Strong_20_Emphasis"><span class="text-T6">App Interactions</span></span></p>
+</td><td style="text-align:left;width:4.2944in; " class="cell-Table1_A2">
+<p class="paragraph-P8">Ad impressions, clicks, video views</p>
+</td></tr><tr class="row-Table1_1"><td style="text-align:left;width:1.9076in; " class="cell-Table1_A2">
+<p class="paragraph-P7"><span class="text-Strong_20_Emphasis"><span class="text-T6">Performance Data</span></span></p>
+</td><td style="text-align:left;width:4.2944in; " class="cell-Table1_A2">
+<p class="paragraph-P8">App launch time, crash logs, hang rates</p>
+</td></tr><tr class="row-Table1_1"><td style="text-align:left;width:1.9076in; " class="cell-Table1_A7">
+<p class="paragraph-P7"><span class="text-Strong_20_Emphasis"><span class="text-T6">Diagnostic Information</span></span></p>
+</td><td style="text-align:left;width:4.2944in; " class="cell-Table1_A7">
+<p class="paragraph-P9">Non-user related crash logs to improve SDK performance</p>
+</td></tr></table>
+
+
+<p class="paragraph-P5">AdMob uses this data to:</p>
+<ul><li><p class="P10" style="margin-left:0cm;"><span class="Bullet_20_Symbols" style="display:block;float:left;min-width:0cm;">•</span>Show you relevant ads<span class="odfLiEnd"/> </p></li><li><p class="P10" style="margin-left:0cm;"><span class="Bullet_20_Symbols" style="display:block;float:left;min-width:0cm;">•</span>Measure ad performance<span class="odfLiEnd"/> </p></li><li><p class="P10" style="margin-left:0cm;"><span class="Bullet_20_Symbols" style="display:block;float:left;min-width:0cm;">•</span>Improve the SDK's stability and functionality<span class="odfLiEnd"/> </p></li></ul><h2 class="paragraph-P3"><a id="a__2__How_Your_Data_Is_Used"><span/></a>2. How Your Data Is Used</h2>
+
+<p class="paragraph-P5">Since we do not collect any data ourselves, all data processing is performed by Google AdMob for advertising purposes. Google may use the collected information to serve personalized or non-personalized ads based on your advertising preferences.</p>
+
+<p class="paragraph-P2"><span class="text-T4">You can learn more about how Google uses data when you use apps that contain AdMob in Google's </span><a href="https://policies.google.com/technologies/partner-sites" class="text-Internet_20_link"><span class="text-T7">How Google uses data when you use our partners' sites or apps</span></a><span class="text-T4">.</span></p>
+<h2 class="paragraph-P3"><a id="a__3__Third-Party_Services"><span/></a>3. Third-Party Services</h2>
+
+<p class="paragraph-P5">Our Game uses the following third-party service:</p>
+
+
+<table border="0" cellspacing="0" cellpadding="0" class="table-Table2"><colgroup><col width="135"/><col width="295"/><col width="184"/></colgroup><tr class="row-Table2_1"><td style="text-align:left;width:1.2188in; " class="cell-Table2_A1">
+<p class="paragraph-P6">Service</p>
+</td><td style="text-align:left;width:2.6611in; " class="cell-Table2_A1">
+<p class="paragraph-P6">Purpose</p>
+</td><td style="text-align:left;width:1.6576in; " class="cell-Table2_A1">
+<p class="paragraph-P6">Privacy Policy</p>
+</td></tr><tr class="row-Table2_1"><td style="text-align:left;width:1.2188in; " class="cell-Table2_A2">
+<p class="paragraph-P7"><span class="text-Strong_20_Emphasis"><span class="text-T6">Google AdMob</span></span></p>
+</td><td style="text-align:left;width:2.6611in; " class="cell-Table2_A2">
+<p class="paragraph-P8">Displaying in-game advertisements</p>
+</td><td style="text-align:left;width:1.6576in; " class="cell-Table2_A2">
+<p class="paragraph-P7"><a href="https://policies.google.com/privacy" class="text-Internet_20_link"><span class="text-T8">Google Privacy Policy</span></a></p>
+</td></tr></table>
+
+
+<p class="paragraph-P5">We do not share any data with any other third parties. We do not sell your personal information.</p>
+<h2 class="paragraph-P3"><a id="a__4__Your_Choices_and_Controls"><span/></a>4. Your Choices and Controls</h2>
+<h3 class="paragraph-P4"><a id="a__Ad_Preferences"><span/></a>Ad Preferences</h3>
+
+<p class="paragraph-P5">You can control how ads are personalized using your device settings:</p>
+<ul><li><p class="P11" style="margin-left:0cm;"><span class="Bullet_20_Symbols" style="display:block;float:left;min-width:0cm;">•</span><span class="text-Strong_20_Emphasis"><span class="text-T1">On Android</span></span><span class="text-T4">: Go to Settings → Google → Ads → Opt out of Ads Personalization</span><span class="odfLiEnd"/> </p></li><li><p class="P11" style="margin-left:0cm;"><span class="Bullet_20_Symbols" style="display:block;float:left;min-width:0cm;">•</span><span class="text-Strong_20_Emphasis"><span class="text-T1">On iOS</span></span><span class="text-T4">: Go to Settings → Privacy → Apple Advertising → Limit Ad Tracking</span><span class="odfLiEnd"/> </p></li></ul>
+<p class="paragraph-P2"><span class="text-T4">You can also visit </span><a href="https://adssettings.google.com/" class="text-Internet_20_link"><span class="text-T7">Google Ad Settings</span></a><span class="text-T4"> to manage your preferences.</span></p>
+
+<p class="paragraph-P12">Data Deletion Requests</p>
+
+<p class="paragraph-P12"><span class="text-T9">If you wish to request deletion of data collected by AdMob, please contact us at </span><span class="text-Strong_20_Emphasis"><span class="text-T10">xojagames@gmail.com</span></span><span class="text-T9">. We will forward your request to Google in accordance with their processes. You may also revoke consent through the consent management options provided within the Game (if applicable in your region).</span></p>
+<h3 class="paragraph-P4"><a id="a__Deleting_Local_Game_Data"><span/></a>Deleting Local Game Data</h3>
+
+<p class="paragraph-P2"><span class="text-T4">All game progress, level completion data, and settings are stored </span><span class="text-Strong_20_Emphasis"><span class="text-T1">only on your device</span></span><span class="text-T4"> using local storage. You can delete this data at any time by:</span></p>
+<ul><li><p class="P13" style="margin-left:0cm;"><span class="Bullet_20_Symbols" style="display:block;float:left;min-width:0cm;">•</span>Uninstalling the Game, or<span class="odfLiEnd"/> </p></li><li><p class="P13" style="margin-left:0cm;"><span class="Bullet_20_Symbols" style="display:block;float:left;min-width:0cm;">•</span>Clearing the app's data through your device settings<span class="odfLiEnd"/> </p></li></ul><h2 class="paragraph-P3"><a id="a__5__Children's_Privacy__COPPA_Compliance_"><span/></a>5. Children's Privacy (COPPA Compliance)</h2>
+
+<p class="paragraph-P5">Our Game is a simple puzzle game suitable for all ages. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.</p>
+
+<p class="paragraph-P2"><span class="text-Strong_20_Emphasis"><span class="text-T1">Note for AdMob:</span></span><span class="text-T4"> Google may serve non-personalized ads to children based on the app's designation in AdMob's settings. We have configured our ad settings accordingly.</span></p>
+<h2 class="paragraph-P3"><a id="a__6__Data_Security"><span/></a>6. Data Security</h2>
+
+<p class="paragraph-P5">Since we do not collect any personal data on our own servers, there is minimal privacy risk from using our Game. All game data remains on your device. Data collected by AdMob is handled according to Google's security practices.</p>
+<h2 class="paragraph-P3"><a id="a__7__International_Data_Transfers"><span/></a>7. International Data Transfers</h2>
+
+<p class="paragraph-P5">AdMob is operated by Google LLC, which processes data globally. Your information may be transferred to and stored on servers located outside of your country of residence, including the United States. Google complies with international data transfer frameworks, including the EU-US Data Privacy Framework where applicable.</p>
+<h2 class="paragraph-P3"><a id="a__8__Changes_to_This_Privacy_Policy"><span/></a>8. Changes to This Privacy Policy</h2>
+
+<p class="paragraph-P5">We may update this Privacy Policy from time to time. If we make material changes, we will notify you by updating the "Last Updated" date at the top of this policy and, where appropriate, by displaying a notice within the Game.</p>
+<h2 class="paragraph-P3"><a id="a__9__Contact_Us"><span/></a>9. Contact Us</h2>
+
+<p class="paragraph-P5">If you have any questions about this Privacy Policy or your data, please contact us at:</p>
+
+<p class="paragraph-P12"><span class="text-Strong_20_Emphasis"><span class="text-T1">Email:</span></span><span class="text-T4">  </span><span class="text-Strong_20_Emphasis"><span class="text-T11">xojagames@gmail.com</span></span></p>
+
+<p class="paragraph-P14"><br/></p>
+</body>
+
+</html>
