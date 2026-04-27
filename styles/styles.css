@@ -1,0 +1,28 @@
+/*
+Colors:
+    Dominant : #98A869
+    Secondary : #FFCE1B
+    Accent : #E35336
+*/
+body {
+    background-color: #008264;
+}
+
+.navigation-bar{
+    background-color: #FFCE1B;
+    width: fit-content;
+    height: fit-content;
+    display: flex;
+}
+
+.navigation-bar a{
+    background-color: #FFCE1B;
+    color: #fff;
+    text-decoration: none;
+    padding: 10px;
+}
+
+.navigation-bar a:hover{
+    color: #FFCE1B;
+    background-color: #fff;
+}
