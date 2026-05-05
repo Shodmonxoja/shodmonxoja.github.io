@@ -4,15 +4,28 @@ Colors:
     Secondary : #ffb71b
     Accent : #E35336
 */
+
+:root{
+    /*Colors*/
+    --dominant-color: #200033;
+    --secondary-color: #FFB22C;
+    --accent-color: #E35336;
+    --text-color: white;
+
+    /*Fonts*/
+    --default-font: 'ElmsSans';
+}
+
 body {
-    background-color: #008264;
+    background-color: var(--dominant-color);
     padding-top: 40px;
-    color: white;
+    color: var(--text-color);
+    font-family: 'ElmsSans';
 }
 
 .navigation-bar{
     position: fixed;
-    background-color: #ffb71b;
+    background-color: var(--secondary-color);
     width: 100%;
     height: fit-content;
     display: flex;
@@ -22,38 +35,64 @@ body {
 }
 
 .navigation-bar a{
-    background-color: #ffb71b;
-    color: #fff;
+    background-color: var(--secondary-color);
+    color: var(--text-color);
     text-decoration: none;
     padding: 10px;
     float: left;
 }
 
 .navigation-bar a:hover{
-    color: #ffb71b;
-    background-color: #fff;
+    color: var(--secondary-color);
+    background-color: var(--text-color);
 }
 
 .page-content{
-    color: white;
+    color: var(--text-color);
 }
 
 .ppbutton{
-    background-color: #ffb71b;
+    background-color: var(--secondary-color);
 }
 
 .ppbutton a{
     text-decoration: none;
-    color: white;
+    color: var(--text-color);
     font-size: large;
     display: block;
     padding: 10px;
 }
 
 .ppbutton:hover{
-    background-color: white;
+    background-color: var(--text-color);
 }
 
 .ppbutton:hover a{
-    color: #ffb71b;
+    color: var(--secondary-color);
+}
+
+#intro{
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    align-items: center;
+    justify-content: center;
+}
+
+#intro h1{
+    margin-bottom: 0;
+}
+
+#intro p{
+    margin-top: 8px;
+}
+
+@font-face {
+    font-family: 'ElmsSans';
+    src: url('../fonts/Elms_Sans/ElmsSans-VariableFont_wght.woff2'),
+        url('../fonts/Elms_Sans/ElmsSans-VariableFont_wght.woff'),
+        url('../fonts/Elms_Sans/ElmsSans-VariableFont_wght.ttf');
+    font-weight: normal;
+    font-style: normal;
+
 }
