@@ -13,7 +13,7 @@
 
 <meta name="DCTERMS.issued" content="2026-04-24T21:26:57.533058497" scheme="DCTERMS.W3CDTF"/>
 
-<meta name="DCTERMS.modified" content="2026-05-11T09:52:44.658511227" scheme="DCTERMS.W3CDTF"/>
+<meta name="DCTERMS.modified" content="2026-05-11T10:09:49.871629038" scheme="DCTERMS.W3CDTF"/>
 <meta name="DCTERMS.provenance" content="Printed by &quot;PDF files&quot;[dc:publisher] on &quot;2026-04-26T17:39:15.026549059&quot;[dc:date] in &quot;en-US&quot;[dc:language]" xml:lang="en-US"/>
 
 <meta name="xsl:vendor" content="libxslt"/>
@@ -38,7 +38,10 @@
     .paragraph-P13{ font-size:12pt; line-height:115%; margin-bottom:0.1665in; margin-top:0.1665in; font-family:'Liberation Serif'; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; font-weight:bold; }
     .paragraph-P14{ font-size:12pt; line-height:115%; margin-bottom:0.1665in; margin-top:0.1665in; font-family:'Liberation Serif'; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; }
     .paragraph-P15{ font-size:12pt; line-height:115%; margin-bottom:0in; margin-top:0in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;border-top-style:none; border-left-style:none; border-bottom-style:none; border-right-style:none; margin-left:0in; margin-right:0in; text-indent:0in; padding:0in; color:#000000; letter-spacing:normal; font-style:normal; font-weight:normal; }
-    .paragraph-P16{ font-size:12pt; line-height:115%; margin-bottom:0.0972in; margin-top:0in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;color:#000000; }
+    .paragraph-P16{ font-size:12pt; line-height:115%; margin-bottom:0in; margin-top:0in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;border-top-style:none; border-left-style:none; border-bottom-style:none; border-right-style:none; margin-left:0in; margin-right:0in; text-indent:0in; padding:0in; color:#000000; }
+    .paragraph-P17{ font-size:12pt; line-height:115%; margin-bottom:0.1665in; margin-top:0.1665in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; color:#000000; }
+    .paragraph-P18{ font-size:12pt; line-height:115%; margin-bottom:0.1665in; margin-top:0.1665in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; color:#000000; }
+    .paragraph-P19{ font-size:12pt; line-height:115%; margin-bottom:0.0972in; margin-top:0in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;color:#000000; }
     .paragraph-P2{ font-size:12pt; line-height:115%; margin-bottom:0.1665in; margin-top:0.1665in; font-family:'Liberation Serif'; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; }
     .paragraph-P3{ font-size:16.5pt; font-weight:bold; margin-bottom:0.1665in; margin-top:0.3335in; font-family:Arial; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; color:#000000; letter-spacing:normal; font-style:normal; }
     .paragraph-P4{ font-size:12pt; line-height:115%; margin-bottom:0.1665in; margin-top:0.1665in; font-family:'Liberation Serif'; writing-mode:horizontal-tb; direction:ltr;margin-left:0in; margin-right:0in; text-indent:0in; }
@@ -85,8 +88,13 @@
     .text-T14{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:normal; }
     .text-T15{ color:#1f1f1f; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:bold; }
     .text-T16{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:normal; }
-    .text-T17{ color:#1f1f1f; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:normal; }
+    .text-T17{ font-family:Arial; }
+    .text-T18{ font-family:Arial; font-weight:bold; }
+    .text-T19{ font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:bold; }
     .text-T2{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:bold; }
+    .text-T20{ font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:normal; }
+    .text-T21{ font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:normal; }
+    .text-T22{ color:#1f1f1f; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:normal; }
     .text-T3{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:bold; }
     .text-T4{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; text-decoration:none ! important; font-weight:bold; }
     .text-T5{ color:#000000; font-family:Arial; font-size:12pt; letter-spacing:normal; font-style:normal; font-weight:normal; }
@@ -190,9 +198,11 @@
 <p class="paragraph-P2"><span class="text-T5">All game progress, level completion data, settings, </span><span class="text-T16">and the age information you provided</span><span class="text-T5"> are stored </span><span class="text-Strong_20_Emphasis"><span class="text-T1">only on your device</span></span><span class="text-T5"> using local storage. You can delete this data at any time by:</span></p>
 <ul><li><p class="P15" style="margin-left:0cm;"><span class="Bullet_20_Symbols" style="display:block;float:left;min-width:0cm;">•</span>Uninstalling the Game, or<span class="odfLiEnd"/> </p></li><li><p class="P15" style="margin-left:0cm;"><span class="Bullet_20_Symbols" style="display:block;float:left;min-width:0cm;">•</span>Clearing the app's data through your device settings<span class="odfLiEnd"/> </p></li></ul><h2 class="paragraph-P3"><a id="a__5__Children's_Privacy__COPPA_Compliance_"><span/></a>5. Children's Privacy (COPPA Compliance)</h2>
 
-<p class="paragraph-P6">Our Game is a simple puzzle game suitable for all ages. We do not knowingly collect personal information from children under 13. If you are a parent or guardian and believe your child has provided us with personal information, please contact us.</p>
+<p class="paragraph-P6"><span class="text-T17">Our game is a simple puzzle game suitable for all ages. To comply with children’s privacy laws (such as COPPA in the U.S. and GDPR in the EU), we ask for your age </span><span class="text-Strong_20_Emphasis"><span class="text-T18">on the very first launch</span></span><span class="text-T17">. This age check happens locally on your device and is used only to automatically set:</span></p>
+<ul><li><p class="P16" style="margin-left:0cm;"><span class="Bullet_20_Symbols" style="display:block;float:left;min-width:0cm;">•</span><span class="text-Strong_20_Emphasis"><span class="text-T19">TagForChildDirectedTreatment</span></span><span class="text-T20"> (for under 13 in the U.S.)</span><span class="odfLiEnd"/> </p></li><li><p class="P16" style="margin-left:0cm;"><span class="Bullet_20_Symbols" style="display:block;float:left;min-width:0cm;">•</span><span class="text-Strong_20_Emphasis"><span class="text-T19">TagForUnderAgeOfConsent</span></span><span class="text-T20"> (for under applicable age in the EU/UK)</span><span class="odfLiEnd"/> </p></li></ul>
+<p class="paragraph-P17"><span class="text-T20">We do </span><span class="text-Strong_20_Emphasis"><span class="text-T19">not</span></span><span class="text-T20"> store, transmit, or retain your age information on our servers. Based on your provided age, Google AdMob will serve </span><span class="text-Strong_20_Emphasis"><span class="text-T19">non-personalized ads</span></span><span class="text-T20"> to children or users under age of consent, in full compliance with COPPA and GDPR.</span></p>
 
-<p class="paragraph-P2"><span class="text-Strong_20_Emphasis"><span class="text-T1">Note for AdMob:</span></span><span class="text-T5"> Google may serve non-personalized ads to children based on the app's designation in AdMob's settings. We have configured our ad settings accordingly.</span></p>
+<p class="paragraph-P18"><span class="text-T21">If you do not provide your age, the game defaults to the strictest child-directed settings. If you are a parent or guardian and believe your child has bypassed this age screen, please contact us at </span><span class="text-Strong_20_Emphasis"><span class="text-T22">xojagames@gmail.com</span></span><span class="text-T21">.</span></p>
 <h2 class="paragraph-P3"><a id="a__6__Data_Security"><span/></a>6. Data Security</h2>
 
 <p class="paragraph-P6">No age information is stored on our servers or linked to any persistent identifier. The age selection is only used to configure third-party ad networks and analytics tools to comply with legal requirements for child-directed or age-appropriate treatment. All game data remains on your device. Data collected by AdMob is handled according to Google's security practices.</p>
@@ -206,9 +216,9 @@
 
 <p class="paragraph-P6">If you have any questions about this Privacy Policy or your data, please contact us at:</p>
 
-<p class="paragraph-P14"><span class="text-Strong_20_Emphasis"><span class="text-T1">Email:</span></span><span class="text-T5">  </span><span class="text-Strong_20_Emphasis"><span class="text-T17">xojagames@gmail.com</span></span></p>
+<p class="paragraph-P14"><span class="text-Strong_20_Emphasis"><span class="text-T1">Email:</span></span><span class="text-T5">  </span><span class="text-Strong_20_Emphasis"><span class="text-T22">xojagames@gmail.com</span></span></p>
 
-<p class="paragraph-P16"><br/></p>
+<p class="paragraph-P19"><br/></p>
 </body>
 
 </html>
