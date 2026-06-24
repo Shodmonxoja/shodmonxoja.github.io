@@ -93,6 +93,43 @@ body {
     margin-top: 8px;
 }
 
+.mylinksSH{
+    display: flex;
+    flex-direction: row;
+}
+
+.mylinksSH div{
+    margin: 2px 2px 2px 2px;
+}
+
+.mylinksSH a{
+    text-decoration: none;
+    color: var(--text-color);
+}
+
+.mylinksSH a img{
+    width: 20px;
+    height: 20px;
+    vertical-align: middle;
+}
+
+#itchio{
+    background-color: #fa5c5c;
+}
+
+#itchio:hover{
+    outline: 2px dashed white;
+}
+
+#github{
+    background-color: black;
+}
+
+#github:hover{
+    outline: 2px dashed white;
+
+}
+
 @font-face {
     font-family: 'ElmsSans';
     src: url('../fonts/Elms_Sans/ElmsSans-VariableFont_wght.woff2'),
