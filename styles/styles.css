@@ -11,6 +11,7 @@ Colors:
     --secondary-color: #FFB22C;
     --accent-color: #E35336;
     --text-color: white;
+    --fade-color: rgba(255, 255, 255, 0.1);
 
     /*Fonts*/
     --default-font: 'ElmsSans';
@@ -70,7 +71,7 @@ body {
 .ppbutton:hover a{
     color: var(--secondary-color);
 }
-
+/*--Intro--*/
 #intro{
     display: flex;
     flex-direction: column;
@@ -78,7 +79,7 @@ body {
     height: fit-content;
     align-items: center;
     justify-content: center;
-    background-color: rgba(255, 255, 255, 0.1);
+    background-color: var(--fade-color);
     top: 0;
     left: 0;
     right: 0;
@@ -130,6 +131,20 @@ body {
     outline: 2px dashed white;
 
 }
+
+/*--Game page--*/
+.game_listing{
+    display: flex;
+    flex-direction: row;
+    background-color: var(--fade-color);
+}
+
+.game_listing img{
+    margin: 5px 10px 5px 5px;
+    width: 200px;
+    height: 200px;
+}
+
 
 @font-face {
     font-family: 'ElmsSans';
