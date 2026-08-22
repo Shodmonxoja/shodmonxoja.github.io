@@ -75,7 +75,6 @@ body {
 #intro{
     display: flex;
     flex-direction: column;
-    width: 100vw;
     height: fit-content;
     align-items: center;
     justify-content: center;
@@ -101,7 +100,7 @@ body {
 }
 
 .mylinksSH div{
-    margin: 2px 2px 2px 2px;
+    margin: 2px 4px 2px 4px;
 }
 
 .mylinksSH a{
@@ -132,17 +131,37 @@ body {
 
 }
 
+#codeberg{
+    background-color: #2185d0;
+}
+
+#codeberg:hover{
+    outline: 2px dashed white;
+
+}
+
+/*#2185d0*/
+
 /*--Game page--*/
 .game_listing{
     display: flex;
     flex-direction: row;
     background-color: var(--fade-color);
+    border-radius: 20px;
 }
 
 .game_listing img{
     margin: 5px 10px 5px 5px;
     width: 200px;
     height: 200px;
+    border-radius: 15px;
+}
+
+.game-links{
+    background-color: var(--secondary-color);
+    width: 250px;
+    border-radius: 20px;
+    margin: 5px;
 }
 
 
