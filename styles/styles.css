@@ -48,13 +48,9 @@ body {
     background-color: var(--text-color);
 }
 
-.page-content{
-    color: var(--text-color);
-}
+.page-content{color: var(--text-color);}
 
-.ppbutton{
-    background-color: var(--secondary-color);
-}
+.ppbutton{background-color: var(--secondary-color);}
 
 .ppbutton a{
     text-decoration: none;
@@ -64,13 +60,9 @@ body {
     padding: 10px;
 }
 
-.ppbutton:hover{
-    background-color: var(--text-color);
-}
+.ppbutton:hover{background-color: var(--text-color);}
 
-.ppbutton:hover a{
-    color: var(--secondary-color);
-}
+.ppbutton:hover a{color: var(--secondary-color);}
 /*--Intro--*/
 #intro{
     display: flex;
@@ -99,49 +91,29 @@ body {
     flex-direction: row;
 }
 
-.mylinksSH div{
+.introlink{
     margin: 2px 4px 2px 4px;
     padding: 2px;
 }
 
-.mylinksSH a{
+.introlink a{
     text-decoration: none;
     color: var(--text-color);
 }
 
-.mylinksSH a img{
+.introlink img{
     width: 20px;
     height: 20px;
     vertical-align: middle;
 }
 
-#itchio{
-    background-color: #fa5c5c;
-}
-
-#itchio:hover{
+.introlink:hover{
     outline: 2px dashed white;
 }
 
-#github{
-    background-color: black;
-}
-
-#github:hover{
-    outline: 2px dashed white;
-
-}
-
-#codeberg{
-    background-color: #2185d0;
-}
-
-#codeberg:hover{
-    outline: 2px dashed white;
-
-}
-
-/*#2185d0*/
+#itchio{background-color: #fa5c5c;}
+#github{background-color: black;}
+#codeberg{background-color: #2185d0;}
 
 /*--Game page--*/
 .game_listing{
