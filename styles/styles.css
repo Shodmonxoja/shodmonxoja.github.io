@@ -24,21 +24,24 @@ body {
     font-family: 'ElmsSans';
 }
 
+body a{
+    text-decoration: none;
+    color: var(--text-color);
+}
+
 .navigation-bar{
     position: fixed;
     background-color: var(--secondary-color);
     width: 100%;
     height: fit-content;
     display: flex;
-    overflow: hidden;
     top: 0;
     left: 0;
 }
 
-.navigation-bar a{
+.navbutton{
     background-color: var(--secondary-color);
     color: var(--text-color);
-    text-decoration: none;
     padding: 10px;
     float: left;
 }
@@ -53,8 +56,6 @@ body {
 .ppbutton{background-color: var(--secondary-color);}
 
 .ppbutton a{
-    text-decoration: none;
-    color: var(--text-color);
     font-size: large;
     display: block;
     padding: 10px;
@@ -96,11 +97,6 @@ body {
     padding: 2px;
 }
 
-.introlink a{
-    text-decoration: none;
-    color: var(--text-color);
-}
-
 .introlink img{
     width: 20px;
     height: 20px;
@@ -115,26 +111,39 @@ body {
 #github{background-color: black;}
 #codeberg{background-color: #2185d0;}
 
-/*--Game page--*/
-.game_listing{
+/*--projects page--*/
+.project_listing{
     display: flex;
     flex-direction: row;
     background-color: var(--fade-color);
     border-radius: 20px;
 }
 
-.game_listing img{
+.project_listing img{
     margin: 5px 10px 5px 5px;
     width: 200px;
     height: 200px;
     border-radius: 15px;
 }
 
-.game-links{
-    background-color: var(--secondary-color);
-    width: 250px;
-    border-radius: 20px;
-    margin: 5px;
+.project_listing:hover{
+    background-color: rgba(255, 255, 255, 0.3);
+}
+
+.tagbar{
+    float: left;
+    display: flex;
+    gap: 5px;
+}
+
+.projectTag{
+    background-color: var(--accent-color);
+    border-radius: 25px;
+    border: 2px;
+    border-style:solid;
+    border-color: var(--secondary-color);
+    padding: 5px 10px;
+    display: inline-block;
 }
 
 .dropdown {
@@ -144,19 +153,20 @@ body {
 
 /* Style the dropdown button */
 .dropbtn {
-  background-color: #3498db;
+  background-color:var(--secondary-color);
   color: white;
-  padding: 12px 16px;
   font-size: 16px;
   border: none;
   cursor: pointer;
+  font-family: var(--default-font);
+  padding: 10px;
 }
 
 /* Hide the dropdown content by default */
 .dropdown-content {
   display: none;
   position: absolute;
-  background-color: #f1f1f1;
+  background-color: var(--text-color);
   min-width: 160px;
   box-shadow: 0px 8px 16px rgba(0,0,0,0.2);
   z-index: 1;
@@ -166,19 +176,25 @@ body {
 .dropdown-content a {
   color: black;
   padding: 12px 16px;
-  text-decoration: none;
   display: block;
 }
 
 /* Change link color on hover */
-.dropdown-content a:hover { background-color: #ddd; }
+.dropdown-content a:hover { background-color: #f1f1f1; }
 
 /* Show the dropdown menu on hover */
 .dropdown:hover .dropdown-content { display: block; }
 
 /* Change button color when dropdown is shown */
-.dropdown:hover .dropbtn { background-color: #2980b9; }
+.dropdown:hover .dropbtn {
+    background-color:var(--text-color);
+    color: var(--secondary-color);
+}
 
+._dialog{
+    position: absolute;
+    display: none;
+}
 
 @font-face {
     font-family: 'ElmsSans';
