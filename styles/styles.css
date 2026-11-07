@@ -137,7 +137,6 @@ button:hover{
 
 .project_listing img{
     margin: 5px 10px 5px 5px;
-    width: 200px;
     height: 200px;
     border-radius: 15px;
 }
@@ -231,15 +230,30 @@ button:hover{
 }
 
 .projectlink{
-  display: block;
+  display: flex;
+  flex-direction: row;
   height: fit-content;
   width: fit-content;
   margin-bottom: 5px;
+  gap: 10px;
 }
 
-#crazygames img{
+.projectlink p{
+  margin: 0;
+}
+
+.crazygames_link img{
   height: 50px;
   display: block;
+}
+
+.codeberg_link{
+  padding: 5px;
+  background-color: #2185d0;
+  border-radius: 8px;
+}
+.codeberg_link img{
+  height: 25px;
 }
 
 .projectlink:hover{
