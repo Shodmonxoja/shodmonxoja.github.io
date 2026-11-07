@@ -1,37 +1,64 @@
-class Project {
-  constructor(name, imagePath, description, {tags = []} = {}) {
-    this.name = name;
-    this.imagePath = imagePath;
-    this.description = description;
-    this.tags = tags;
-  }
-}
+import { Project } from "./models/project.js";
+import { showProjectSheet } from "./overlay.js";
 
 const games = [
-  new Project("Pixlock", "/resources/gameThumb/pixlock.jpeg", `
+  new Project({
+    name: "Pixlock",
+    imagePath: "/resources/projects/games/pixlock/pixlock.jpeg",
+    description:`
     Pixlock is a challenging puzzle game where every move matters.
         Strategically slide blocks to clear the path and guide the main block through the hole at the bottom.
         Careful thinking and precise planning are key. Only logic and skill will lead you to victory.
-    `, {tags: ["free", "android", "web"]}),
-  new Project("LRR", "/resources/gameThumb/random.png", "description"),
+    `,
+    tags: ["free", "android", "web"],
+    externalLinks: [
+      `<a class="projectlink" id="crazygames" href="https://www.crazygames.com/game/pixlock" target="_blank">
+         <img src="/resources/assets/crazygames.jpg">
+      </a>
+      `
+    ]
+  }),
+  new Project({
+    name: "LRR",
+    imagePath: "/resources/projects/random.png",
+    description: "description"
+  })
 ];
 
 const apps = [
-  new Project("Loiha", "/resources/gameThumb/pixlock.jpeg", `
+  new Project({
+    name: "Pixlock",
+    imagePath: "/resources/gameThumb/pixlock.jpeg",
+    description:`
     Pixlock is a challenging puzzle game where every move matters.
         Strategically slide blocks to clear the path and guide the main block through the hole at the bottom.
         Careful thinking and precise planning are key. Only logic and skill will lead you to victory.
-    `),
-  new Project("ARR", "/resources/gameThumb/random.png", "description")
+    `,
+    tags: ["free", "android", "web"]
+  }),
+  new Project({
+    name: "LRR",
+    imagePath: "/resources/gameThumb/random.png",
+    description: "description"
+  })
 ];
 
 const assets_tools = [
-  new Project("Car AI for Unity", "https://img.itch.zone/aW1nLzE0NzU0MzU3LnBuZw==/315x250%23c/gW7g1%2F.png", `
+  new Project({
+    name: "Pixlock",
+    imagePath: "/resources/gameThumb/pixlock.jpeg",
+    description:`
     Pixlock is a challenging puzzle game where every move matters.
         Strategically slide blocks to clear the path and guide the main block through the hole at the bottom.
         Careful thinking and precise planning are key. Only logic and skill will lead you to victory.
-    `),
-  new Project("ARR", "/resources/gameThumb/random.png", "description")
+    `,
+    tags: ["free", "android", "web"]
+  }),
+  new Project({
+    name: "LRR",
+    imagePath: "/resources/gameThumb/random.png",
+    description: "description"
+  })
 ];
 
 function addProjects(projects) {
@@ -50,7 +77,7 @@ function addProjects(projects) {
         `;
     }
     output += `
-    <a class="project_listing" href="javascript:void(0);" onclick="showProjectSheet(${projects[i]}, '', '')">
+    <a class="project_listing" href="javascript:void(0);" data-index="${i}">
         <img src="${projects[i].imagePath}">
         <div class="title-and-desc">
             <h2>${projects[i].name}</h2>
@@ -67,6 +94,7 @@ function addProjects(projects) {
 function addGames() {
   const projectsContainer = document.getElementById('page-content');
   projectsContainer.innerHTML = addProjects(games);
+  attachEventListeners(games);
 }
 
 function addApps() {
@@ -78,3 +106,19 @@ function addAssetsAndTools() {
   const projectsContainer = document.getElementById('page-content');
   projectsContainer.innerHTML = addProjects(assets_tools);
 }
+
+function attachEventListeners(currentProjectsArray) {
+  const links = document.querySelectorAll('.project_listing');
+
+  links.forEach(link => {
+    link.addEventListener('click', (e) => {
+      const index = e.currentTarget.getAttribute('data-index');
+      const selectedProject = currentProjectsArray[index];
+      showProjectSheet(selectedProject, '', selectedProject.externalLinks);
+    });
+  });
+}
+
+window.addApps = addApps;
+window.addGames = addGames;
+window.addAssetsAndTools = addAssetsAndTools;

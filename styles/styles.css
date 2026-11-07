@@ -24,9 +24,25 @@ body {
     font-family: 'ElmsSans';
 }
 
-body a{
+a{
     text-decoration: none;
     color: var(--text-color);
+}
+
+button{
+  padding: 5px 10px;
+  background-color: var(--accent-color);
+  color: var(--text-color);
+  font-family: 'ElmsSans';
+  font-weight: bold;
+  font-size: 20px;
+  border-style: none;
+  border-radius: 8px;
+}
+
+button:hover{
+  background-color: var(--text-color);
+  color: var(--accent-color);
 }
 
 .navigation-bar{
@@ -160,6 +176,7 @@ body a{
   cursor: pointer;
   font-family: var(--default-font);
   padding: 10px;
+  border-radius: 0;
 }
 
 /* Hide the dropdown content by default */
@@ -191,9 +208,43 @@ body a{
     color: var(--secondary-color);
 }
 
-._dialog{
-    position: absolute;
-    display: none;
+.overlay {
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100vw;
+  height: 100vh;
+  background-color: rgba(0, 0, 0, 0.5);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  z-index: 1000;
+}
+
+.sheet-content {
+  background:var(--dominant-color);
+  padding: 24px;
+  border-radius: 8px;
+  min-width: 300px;
+  max-width: 70vw;
+  box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+}
+
+.projectlink{
+  display: block;
+  height: fit-content;
+  width: fit-content;
+  margin-bottom: 5px;
+}
+
+#crazygames img{
+  height: 50px;
+  display: block;
+}
+
+.projectlink:hover{
+  outline: 2px solid white;
+  border-radius: 8px;
 }
 
 @font-face {
