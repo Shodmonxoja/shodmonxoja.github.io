@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="70mm"
+   height="70mm"
+   viewBox="0 0 70 70"
+   version="1.1"
+   id="svg1"
+   sodipodi:docname="loiha.svg"
+   inkscape:version="1.4 (e7c3feb100, 2024-10-09)"
+   inkscape:export-filename="loihaicon.png"
+   inkscape:export-xdpi="371.56573"
+   inkscape:export-ydpi="371.56573"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="2.4826901"
+     inkscape:cx="119.8297"
+     inkscape:cy="155.67791"
+     inkscape:window-width="1920"
+     inkscape:window-height="1008"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg1" />
+  <defs
+     id="defs1" />
+  <g
+     id="layer1"
+     transform="translate(-69.965709,-113.46595)"
+     style="stroke:none">
+    <path
+       id="path4"
+       style="fill:#00b1ae;fill-opacity:1;stroke-width:0;paint-order:fill markers stroke;stroke-dasharray:none;stroke:none"
+       d="m 85.368949,121.17917 v 47.06689 h 46.952171 v -4.77955 H 90.322652 v -42.28734 z" />
+    <path
+       id="path3"
+       style="fill:#54d83b;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="m 77.678979,121.17917 v 54.62584 l 54.642141,0.0158 v -7.57473 H 85.368949 v -47.06689 z"
+       sodipodi:nodetypes="ccccccc" />
+    <path
+       id="path2"
+       style="fill:#00b1ae;fill-opacity:1;stroke:none;stroke-width:0;stroke-dasharray:none;paint-order:fill markers stroke"
+       d="M 140.0343,183.53404 H 69.965703 v -70.06808 l 49.555627,7.71321 H 77.678979 v 54.62584 H 132.32112 V 134.0342 l 7.71318,49.49984 -70.068597,-70.06808"
+       sodipodi:nodetypes="cccccccccc" />
+  </g>
+</svg>
