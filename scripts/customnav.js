@@ -12,7 +12,7 @@ function createNav() {
           </div>
         </div>
         <a class="navbutton" href="/pages/experimental.html">Experimental</a>
-        <a class="navbutton" href="#Aboutme">About me</a>
+        <a class="navbutton" href="/pages/aboutme.html">About me</a>
     `;
 
     return navbar;

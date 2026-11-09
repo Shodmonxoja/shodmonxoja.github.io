@@ -229,6 +229,14 @@ button:hover{
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
 }
 
+.projectlinkholder{
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 10px;
+}
+
 .projectlink{
   display: flex;
   flex-direction: row;
@@ -240,6 +248,7 @@ button:hover{
 
 .projectlink p{
   margin: 0;
+  white-space: nowrap;
 }
 
 .crazygames_link img{
@@ -254,6 +263,22 @@ button:hover{
 }
 .codeberg_link img{
   height: 25px;
+}
+
+.itchiio_link{
+  padding: 5px;
+  background-color: #fa5c5c;
+  border-radius: 8px;
+}
+
+.itchiio_link img{
+  height: 25px;
+}
+
+.privacypolicy_link{
+  padding: 5px;
+  background-color: var(--fade-color);
+  border-radius: 8px;
 }
 
 .projectlink:hover{
