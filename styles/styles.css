@@ -227,6 +227,7 @@ button:hover{
   min-width: 300px;
   max-width: 70vw;
   box-shadow: 0 4px 12px rgba(0, 0, 0, 0.15);
+  border: 2px solid var(--secondary-color);
 }
 
 .projectlinkholder{

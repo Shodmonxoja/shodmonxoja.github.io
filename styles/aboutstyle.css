@@ -25,7 +25,6 @@ details[open]::details-content {
 }
 
 #skills{flex-direction: column;}
-#plangs{flex-direction: row;}
 
 .skillset details{
   width: 100%;
@@ -36,7 +35,6 @@ details[open]::details-content {
 }
 
 #skills details{width: 100%;}
-#plangs details{width: fit-content;}
 
 .skillset summary{
   background-color: var(--fade-color);
@@ -44,10 +42,6 @@ details[open]::details-content {
   border-radius: 12px;
   width: 100%;
   user-select: none;
-}
-
-#plangs{
-  width: fit-content;
 }
 
 .details_content{
